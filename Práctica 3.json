@@ -1,0 +1,112 @@
+{
+    "Supermercados": [
+        {
+        "Nombre": "Carrefour",
+        "Dirección": "Ronda Urbana Norte, s/n 41015 Sevilla.",
+        "Geolocalización": [
+            {
+            "Latitud": "37.41810049397152", 
+            "Longitud": "-5.974290003413497"
+            }
+        ]
+        },
+
+        "Productos en oferta", [
+            {
+                "nombre": "Suavizante concentrado azul Carrefour 80 lavados",
+                "oferta": "2ª unidad -50%",
+                "periodo_vigencia": {
+                    "inicio": "01-05-2023",
+                    "fin":"15-05-2023"
+                },
+                "unidades":"1",
+                "unidad_de_medida": "litros",
+                "precio": "1.85",
+                "Adquirido":"true"
+            },
+            {
+                "nombre": "Arroz redondo Sos 1kg",
+                "oferta": "2x1",
+                "periodo_vigencia": {
+                    "inicio": "01-05-2023",
+                    "fin":"15-05-2023"
+                },
+                "unidades":"1",
+                "unidad_de _medida": "gramos",
+                "precio": "1.80",
+                "Adquirido": false
+            }
+        ],
+        "Productos sin ofertas", [
+            {
+                "nombre": "Yogur griego natural Carrefour 1kg",
+                "unidades":"1",
+                "unidad_de_medida": "gramos",
+                "precio": "2.45",
+                "Adquirido": true
+            },
+            {
+                "nombre": "Guacamole Carrefour 200g",
+                "unidades":"1",
+                "unidad_de_medida": "gramos",
+                "precio": "1.39",
+                "Adquirido": true   
+            }
+        ],
+
+        {
+        "Nombre": "Mercadona",
+        "Dirección": "Av. del Alcalde Manuel del Valle, 54, 41015 Sevilla",
+        "Geolocalización": [
+             {
+            "Latitud": "37.41670469233623,", 
+            "Longitud": "-5.973156323426111"
+            }
+        ]
+        },
+    
+        "Productos en oferta", [
+            {
+                "nombre": "Pechuga de pavo bajo en sal Hacendado finas lonchas",
+                "oferta": "-30%",
+                "periodo_vigencia": {
+                     "inicio": "01-05-2023",
+                     "fin":"15-05-2023"
+                },
+                "unidades":"1",
+                "unidad_de_medida": "gramos",
+                "precio": "3.37",
+                "Adquirido":"true"
+            },
+            {
+                "nombre": "Pasta estrellas Felicia sin gluten",
+                "oferta": "2x1",
+                "periodo_vigencia": {
+                    "inicio": "01-05-2023",
+                    "fin":"15-05-2023"
+                },
+                "unidades":"1",
+                "unidad_de _medida": "gramos",
+                "precio": "2.00",
+                "Adquirido": false
+            }
+        ],
+        "Productos sin ofertas", [
+            {
+                "nombre": "Fideos orientales sabor ternera asada Hacendado",
+                "unidades":"2",
+                "unidad_de_medida": "gramos",
+                "precio": "0.80",
+                "Adquirido": false
+            },
+            {
+                "nombre": "kiwis amarillos",
+                "unidades":"2",
+                "unidad_de_medida": "gramos",
+                "precio": "3.20",
+                "Adquirido": true   
+            }
+        ]
+
+    ]
+}
